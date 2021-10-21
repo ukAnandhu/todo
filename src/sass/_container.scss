@@ -1,0 +1,12 @@
+.container {
+    background-color: yellow;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    @media (max-width:'900px') {
+        background-color: #fff;
+        height: 100%;
+       
+
+    }
+}
